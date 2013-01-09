@@ -1,4 +1,9 @@
-# How does it work?
+---
+layout: page
+title: "Minecraft"
+description: "Minecraft stuff"
+---
+{% include JB/setup %}
 
 Welcome to my minecraft page where ill give you all the latest mionecraft stuff.
 
